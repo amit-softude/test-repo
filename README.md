@@ -75,7 +75,7 @@ To install and setup the app, please follow the steps mentioned below
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/endlesshealthinc/eh-web-portal.git
    ```
 2. Install NPM packages
    ```sh
@@ -90,7 +90,7 @@ To install and setup the app, please follow the steps mentioned below
 1. To create a production-ready build, use the following command:
    ```sh
    npm run build
-
+   ```  
 2.  If you want to serve the build locally, you can use a tool like serve. If you don't have it installed, you can install it globally:
    ```sh
    npm install -g serve
