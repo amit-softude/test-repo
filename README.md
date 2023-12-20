@@ -41,6 +41,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#deployment">Deployment</a></li>
       </ul>
     </li>
     <li><a href="#AppFlow">AppFlow</a></li>
@@ -80,6 +81,20 @@ To install and setup the app, please follow the steps mentioned below
    ```sh
    npm install
    ```
+3. Run the development server using the following command:
+   ```sh
+   npm start
+   ```
+
+### Deployment
+1. To create a production-ready build, use the following command:
+   ```sh
+   npm run build
+   ```  
+2. Now, navigate to the build directory and use serve to run a local server:
+   ```sh
+   serve -s
+   ```  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
