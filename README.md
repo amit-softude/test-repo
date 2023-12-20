@@ -58,14 +58,11 @@ Endless Health Web App is a tool which shows beautiful visual representation of 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
 
 * [![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Prerequisites
 Please install latest Nodejs on your machine with version above 18.15.0. <a href="https://nodejs.org/en/download" target="_blank">Click here</a> to download Nodejs 
@@ -130,7 +127,7 @@ To install and setup the app, please follow the steps mentioned below
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Alok Pathak ( alok.pathak.sg@gmail.com )
+Alok Pathak ( alok.pathak.sg@gmail.com )
 
 Project Link: [https://github.com/endlesshealthinc/eh-web-portal](https://github.com/endlesshealthinc/eh-web-portal)
 
