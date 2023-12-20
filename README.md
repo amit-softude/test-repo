@@ -16,11 +16,11 @@
 
   <p align="center">
     <br />
-    <a href="https://web.endless.health/">View Demo</a>
+    <a href="https://web.endless.health/" target="_blank" >View Demo</a>
     ·
-    <a href="https://github.com/endlesshealthinc/eh-web-portal/issues">Report Bug</a>
+    <a href="https://github.com/endlesshealthinc/eh-web-portal/issues" target="_blank" >Report Bug</a>
     ·
-    <a href="https://github.com/endlesshealthinc/eh-web-portal/issues">Request Feature</a>
+    <a href="https://github.com/endlesshealthinc/eh-web-portal/issues" target="_blank" >Request Feature</a>
   </p>
 </div>
 
