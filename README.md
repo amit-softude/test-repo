@@ -43,7 +43,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#appFlow">App Flow</a></li>
+    <li><a href="#AppFlow">AppFlow</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -52,8 +52,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://web.endless.health)
+<a href="https://web.endless.health" target="_blank">Product link</a>
 
 Endless Health Web App is a tool which shows beautiful visual representation of biomarkers based on test results.
 
@@ -63,21 +62,13 @@ Endless Health Web App is a tool which shows beautiful visual representation of 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-
 * [![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-
 ### Prerequisites
-Please install latest Nodejs on your machine with version above 18.15.0. <a href="https://nodejs.org/en/download">Click here</a> to download Nodejs 
+Please install latest Nodejs on your machine with version above 18.15.0. <a href="https://nodejs.org/en/download" target="_blank">Click here</a> to download Nodejs 
 
 
 ### Installation
@@ -96,7 +87,7 @@ To install and setup the app, please follow the steps mentioned below
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- App Flow -->
-## appFlow
+## AppFlow
 
 ### 1. Initial Email Verification
 
