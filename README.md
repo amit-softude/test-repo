@@ -90,8 +90,12 @@ To install and setup the app, please follow the steps mentioned below
 1. To create a production-ready build, use the following command:
    ```sh
    npm run build
+
+2.  If you want to serve the build locally, you can use a tool like serve. If you don't have it installed, you can install it globally:
+   ```sh
+   npm install -g serve
    ```  
-2. Now, navigate to the build directory and use serve to run a local server:
+3. Now, navigate to the build directory and use serve to run a local server:
    ```sh
    serve -s
    ```  
